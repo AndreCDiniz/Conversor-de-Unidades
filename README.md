@@ -1,6 +1,6 @@
-# Desafio Justa
+# Desafio - Conversor de Unidades
 
-O desafio justa consiste em um web service que converte das unidades passadas pelo usuário para SI [(Sistema Internacional de Unidades)](https://pt.wikipedia.org/wiki/Sistema_Internacional_de_Unidades).
+O desafio consiste em um web service que converte das unidades passadas pelo usuário para SI [(Sistema Internacional de Unidades)](https://pt.wikipedia.org/wiki/Sistema_Internacional_de_Unidades).
 
 
 
